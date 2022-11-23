@@ -1,0 +1,2 @@
+rootProject.name='GSensor'
+include ':app'
