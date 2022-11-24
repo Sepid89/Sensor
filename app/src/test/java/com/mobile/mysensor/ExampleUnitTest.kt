@@ -1,4 +1,4 @@
-package com.ucan.mysensor
+package com.mobile.mysensor
 
 import org.junit.Test
 
